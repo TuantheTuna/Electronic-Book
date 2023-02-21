@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Ebook
+        </title>
+    </head>
+<body>
+    <center>
+        <h1>Ebook</h1>
+    </center>
+    <embed src="file:///E:/nhasachmienphi-mon-an-giup-tre-thong-minh-hoc-gioi.pdf" type="application/pdf" width="100%" height="600px"/>
+    
+</body>
+    </html>
